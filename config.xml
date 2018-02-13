@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Yuchberry userPassword="111111" serverPort="9716" pushInterval="10" userSSL="0" convertoSimpleChar="0" disableLog="0" disableReport="0">
+	
+	<!--EmailAccount
+		account="huangfeng.tianma@qq.com"
+		password="qabywmxkkftldahf"
+		cryptPassword=""
+		sendName="HuangFeng@tianma"
+		
+		useFullNameSignIn="0"
+		
+		protocol="imap"
+		host="imap.qq.com"
+		port="143"
+		
+		protocol_send="smtp"
+		host_send="smtp.qq.com"
+		port_send="25"
+		
+		appendHTML="1"
+		pushHistoryMsg="1"
+	/-->
+		
+</Yuchberry>
