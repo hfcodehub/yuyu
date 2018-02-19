@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Yuchberry userPassword="huangfeng" serverPort="9724" pushInterval="30" userSSL="0" convertoSimpleChar="0" disableLog="0" disableReport="0">
+<Yuchberry userPassword="huangfeng" serverPort="8080" pushInterval="30" userSSL="0" convertoSimpleChar="0" disableLog="0" disableReport="0">
 	
 	<!--EmailAccount
 		account="huangfeng.tianma@qq.com"
